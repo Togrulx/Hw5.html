@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+
+a{
+    text-decoration: none;
+}
+
+header{
+    padding: 20px 4rem;
+    overflow: auto;
+
+}
+
+header .left{
+float: left;
+}
+
+header .left a{
+color: #212832;
+font-size: 22px;
+font-weight: 350;
+}
+
+header .right{
+ float: right;
+}
+
+header .right a{
+    color: #fff;
+    margin-left: 30px;
+    padding: 13px 13px;
+    margin:5px;
+    background-color: #0D6EFD;
+    border-radius: 6px;
+    font-size: 18px;
+}
+
+#Second-div{
+    background: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 12rem;
+    padding-bottom: 22rem;
+}
+#Second-div h1{
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+#Second-div form{
+    width: 40%;
+    margin: 30px auto 0;
+    
+}
+#Second-div input{
+    width: 75%;
+    outline: none;
+    border-radius: 5px;
+    padding: 18px 16px ;
+    font-size: 15px;
+    border: 1px solid #fff;
+}
+#Second-div button{
+    background-color: #0D6EFD;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #0D6EFD;
+    padding: 19px 22px;
+    margin: 20px;
+
+}
+
+
+#Thrid-div{
+    background-color: #F8F9FA;
+    margin: 120px;
+   
+}
+
+#Thrid-div img{
+    width: 20%;
+}
+
+#Thrid-div h1{
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+.box{
+    float: left;
+    width: 30%;
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column  ;
+    text-align: center;
+    padding-bottom: 120px;
+}
+
+#Four-right{
+    background: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-1.jpg);
+    width: 50%;
+    background-size: cover;
+    padding-top: 14rem;
+    padding-bottom: 14rem;
+    float: right;
+
+     
+}
+#Four-left{
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin-top: 120px;
+}
+
+h1{
+    margin-bottom: 15px;
+}
+
+#Five-div{
+    overflow: auto;
+}
+#Five-right{
+    float: right;
+    width: 50%;
+    text-align: center;
+    margin-top: 120px;
+    
+}
+
+#Five-left{
+    background: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg);
+    width: 50%;
+    background-size: cover;
+    padding-top: 14rem;
+    padding-bottom: 14rem;
+    float: left;
+} 
+
+
+#Six-right{
+    background: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-3.jpg);
+    width: 50%;
+    background-size: cover;
+    padding-top: 14rem;
+    padding-bottom: 14rem;
+    float: right;
+
+     
+}
+#Six-left{
+    float: left;
+    width: 50%;
+    text-align: center;
+    margin-top: 120px;
+}
+
+#Seven-div{
+    background-color: #F8F9FA;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#Seven-div img{
+    width: 45%;
+}
+#Seven-header{
+    text-align: center;
+    margin: 20px;
+}
+#Seven-bottom h3{
+    margin: 8px;
+}
+
+#Eight-div{
+    background: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 6rem;
+    padding-bottom: 9rem;
+}
+#Eight-div h1{
+    text-align: center;
+    margin-top: 30px;
+    color: #fff;
+}
+#Eight-div form{
+    width: 40%;
+    margin: 30px auto 0;
+    
+}
+#Eight-div input{
+    width: 75%;
+    outline: none;
+    border-radius: 5px;
+    padding: 18px 16px ;
+    font-size: 15px;
+    border: 1px solid #fff;
+}
+#Eight-div button{
+    background-color: #0D6EFD;
+    color: #fff;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+    border: 1px solid #0D6EFD;
+    padding: 19px 22px;
+    margin: 20px;
+
+}
